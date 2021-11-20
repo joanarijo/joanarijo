@@ -12,5 +12,5 @@ Also, a proud member of [Pharaoh.Ventures](https://pharaoh.ventures/)
 - 🚀 Hobbies: Pilates, Photography, Drawing and Video Games
 
 Hackathons:
-- 5th place at Pixels.camp 2017 / Project: mysmart / Challenge: mercedes-benz.io
-- 8th place at Pixels.camp 2019 / Project: [Yet Unnamed Project](https://taikai.network/en/pixelscamp/challenges/pixels-camp/projects/cjtin5qji1zy40b84fklxhtiz/idea) / Challenge: Fundação Calouste Gulbenkian (Hack for Good) & Microsoft
+- 5th place at Pixels Camp 2017 | Project: mysmart | Challenge: mercedes-benz.io
+- 8th place at Pixels Camp 2019 | Project: [Yet Unnamed Project](https://taikai.network/en/pixelscamp/challenges/pixels-camp/projects/cjtin5qji1zy40b84fklxhtiz/idea) | Challenge: Fundação Calouste Gulbenkian (Hack for Good) & Microsoft
