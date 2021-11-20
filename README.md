@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 I'm Joana Rijo, from Lisbon, Portugal. Currently working as Frontend Developer at [Tux&Gill](https://www.tux-gill.pt/)  
-Also, a proud member of [Pharaoh.Ventures](https://pharaoh.ventures/)
+Member of [Pharaoh.Ventures](https://pharaoh.ventures/)
 
 - 😄 Pronouns: She/Her
 - 🌱 Learning Data Structures, Algorithms and JavaScript Frameworks
