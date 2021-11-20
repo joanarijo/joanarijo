@@ -9,7 +9,7 @@ Also, a proud member of [Pharaoh.Ventures](https://pharaoh.ventures/)
 - 🤔 (Always) Looking for tips to improve
 - 💬 Ask me about anything
 - 📫 How to reach me: [Website](https://joanarijo.dev) / [Instagram](https://www.instagram.com/joana_rijo/) / [Twitter](https://twitter.com/joanarijo)
-- 🚀 Hobbies: Pilates, Photography, Drawing and Video Games
+- 🚀 Hobbies: Pilates, Photography, Doodles and Video Games
 
 Hackathons:
 - 5th place at Pixels Camp 2017 | Project: mysmart | Challenge: mercedes-benz.io
