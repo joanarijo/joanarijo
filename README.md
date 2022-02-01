@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Joana Rijo, from Lisbon, Portugal. Currently working as Frontend Developer at [Tux&Gill](https://www.tux-gill.pt/)  
+I'm Joana Rijo, from Lisbon, Portugal. Currently working as Frontend Engineer at [Amyris](https://amyris.com/)  
 Member of [Pharaoh.Ventures](https://pharaoh.ventures/)
 
 - 😄 Pronouns: She/Her
