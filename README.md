@@ -1,17 +1,15 @@
-### Hi there! 👋
+### Heyo! 👋
 
-I'm Joana Rijo, from Lisbon, Portugal. Currently working as Frontend Engineer at [Amyris](https://amyris.com/)  
-Member of [Pharaoh.Ventures](https://pharaoh.ventures/)
+I'm Joana, from Lisbon, Portugal.  
+Currently working as _Frontend Engineer_ at _Mercedes-Benz Portugal_.  
 
-- 😄 Pronouns: She/Her
-- 🌱 Learning Data Structures, Algorithms and JavaScript Frameworks
-- 👯 Looking to collaborate on React, Electron and Express
-- 🤔 (Always) Looking for tips to improve
-- 💬 Ask me about anything
-- 📫 How to reach me: [Website](https://joanarijo.dev) / [Instagram](https://www.instagram.com/joana_rijo/) / [Twitter](https://twitter.com/joanarijo)
-- 🚀 Hobbies: Pilates, Photography, Doodles and Video Games
+- 🔺 Member of [Pharaoh.Ventures](https://pharaoh.ventures/)  
+- 🌱 Learning Python and HTMX  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joana-rijo/) or [Email](mailto:joanaisabelrijo@gmail.com)
 
-Hackathons:
-- 5th place at Pixels Camp 2017 | Project: [mysmart](https://github.com/mjamado/MOCKPIXEL008) | Challenge: mercedes-benz.io
-- 8th place at Pixels Camp 2019 | Project: [YUP](https://taikai.network/en/pixelscamp/challenges/pixels-camp/projects/cjtin5qji1zy40b84fklxhtiz/idea) | Challenge: Fundação Calouste Gulbenkian (Hack for Good) & Microsoft
-- 3rd place at ETIC Ideia 2019 | Project: 2V 
+--- 
+__Hackathons:__  
+  
+__Pixels Camp 2017__ • 5th place • Project: [mysmart](https://github.com/mjamado/MOCKPIXEL008) • Challenge: mercedes-benz.io  
+__Pixels Camp 2019__ • 8th place • Project: [YUP](https://taikai.network/en/pixelscamp/challenges/pixels-camp/projects/cjtin5qji1zy40b84fklxhtiz/idea) • Challenge: Fundação Calouste Gulbenkian (Hack for Good) & Microsoft  
+__ETIC Ideia 2019__ • 3rd place • Project: 2V - Vai & Volta • Challenge: Unicef  
