@@ -1,7 +1,7 @@
 ### Heyo! 👋
 
 I'm Joana, from Lisbon, Portugal.  
-Currently working as _Frontend Engineer_ at _Mercedes-Benz Portugal_.  
+Currently working as _Frontend Engineer_ at _Telenor_.  
 
 - 🔺 Member of [Pharaoh.Ventures](https://pharaoh.ventures/)  
 - 🌱 Learning Python and HTMX  
